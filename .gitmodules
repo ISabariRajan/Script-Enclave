@@ -1,6 +1,6 @@
 [submodule "PyUtils"]
 	path = PyUtils
-	url = git@github.com:si-guru/PyUtils.git
+	url = git@github.com:ISabariRajan/PyUtils.git
 [submodule "Linux"]
 	path = Linux
-	url = git@github.com:si-guru/LinuxScriptEnclave.git
+	url = git@github.com:ISabariRajan/LinuxScriptEnclave.git
